@@ -22,4 +22,4 @@ Run Distribution by Shot Type
 - <a href="https://public.tableau.com/app/profile/piyush.karpe/viz/Tableaupresentation_17297980151530/Dashboard1?publish=yes">View Dashboard</a>
 
 # Dashboard Image
-- <a href="https://github.com/piyushhk/Ipl_Match_Review/blob/main/KKR%20vs%20CSK%20Match%20Review.png">View Image</a>
+- <a href="https://github.com/piyushhk/Ipl_Match_Review/blob/main/IPL%20Dashboard.png">View Image</a>
