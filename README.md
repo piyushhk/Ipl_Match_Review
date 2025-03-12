@@ -3,7 +3,7 @@ This Tableau dashboard provides an in-depth analysis of the IPL match between KK
 The objective of this Tableau dashboard is to provide a comprehensive analysis of the KKR vs CSK cricket match. By leveraging interactive visualizations, the project aims to deliver actionable insights on player performances, run progression, bowling efficiency, and key match moments. This analysis helps cricket enthusiasts and analysts understand the dynamics of the game and identify factors that influenced the match outcome.
 
 # Dataset Used
-KKR_vs_CSK_Match_Dataset (Add your dataset link here if available)
+- <a href="https://github.com/piyushhk/Ipl_Match_Review/blob/main/Ipl%20CSK%20vs%20KKR.csv">Ipl CSKvsKKR Dataset</a>
 
 # Key Insights
 Player Performance: Analyzed individual batsmen runs and bowlers' contributions throughout the match.
@@ -19,7 +19,7 @@ Run Progression Over Overs
 Run Distribution by Shot Type
 
 # Dashboard Interaction
-View Tableau Dashboard (Add link to Tableau Public if you publish it there)
+- <a href="https://public.tableau.com/app/profile/piyush.karpe/viz/Tableaupresentation_17297980151530/Dashboard1?publish=yes">Ipl CSKvsKKR Dataset</a>
 
 # Dashboard Image
-(Upload an image of your dashboard or add a link to the image here)
+- <a href="https://github.com/piyushhk/Ipl_Match_Review/blob/main/KKR%20vs%20CSK%20Match%20Review.png">Ipl CSKvsKKR Dataset</a>
